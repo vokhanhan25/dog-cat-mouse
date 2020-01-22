@@ -1,5 +1,5 @@
-function cat () {
-    
+function Cat () {
+    this.stomach = [];
 }
 
 module.export = Cat;
